@@ -5,10 +5,15 @@ body{
 
 }
 
-.title{
-    color:#FFFFFF;
-    font-family: Poppins;
-    font-size: 80;
-    font-weight: 500;
-    text-align: left;
+.logo{ position: absolute;
+width: 179px;
+height: 90px;
+left: 50px;
+top: 50px;
+font-family: 'Modak';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 90px;
+color: #7371FC;
 }
