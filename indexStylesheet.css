@@ -47,5 +47,8 @@ a.active {
     }
 }
 footer{
-    
+    padding-left: 20px;
+    width: 100%;
+    text-align: center;
+    color:#EBEFF3;
 }
