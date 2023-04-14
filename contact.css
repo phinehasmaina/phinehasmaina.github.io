@@ -1,6 +1,7 @@
 body{
     background-color: #202124 ;
     font-family: 'Poppins', sans-serif;
+    color: #EBEFF3;
 }
 .navbar {
     display: flex;
@@ -45,6 +46,10 @@ a.active {
     to {
         color: #F56D64;
     }
+}
+
+.form-control{
+    color:#41444E;
 }
 footer{
     padding-left: 20px;
