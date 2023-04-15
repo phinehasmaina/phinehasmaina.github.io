@@ -14,12 +14,9 @@ body{
     margin: 10px;
     background-color: #202124 ;
   }
-
 .logo img{
     width: 150px;
 }
-
-
 .navlinks{
     display: flex;
     align-items: center;
@@ -32,17 +29,14 @@ body{
     font-weight: 700;
     font-size: 20px;
 }
-
 .navlinks a.highlight:hover {
     color: #F56D64;
     animation-name: Link;
     animation-duration: 0.5s;
 }
-
 a.active {
     color: #7371FC;
 }
-
 @keyframes Link {
     from {
         color: #EBEFF3;
@@ -54,8 +48,7 @@ a.active {
 h2{
     color: #7371FC;
     padding-top: 50px;
-    margin-left: 100px;
-    
+    margin-left: 100px; 
 }
 .rectangle{
     margin-left: 100px;
@@ -86,7 +79,17 @@ input{
     font-size: 15px;
     color: #EBEFF3;
 }
-
+.send input{
+    width: 150px;
+    height: 85px;
+    left: 150px;
+    top: 1063px;
+    margin-left: 100px;
+    margin-right: auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #EBEFF3;
+}
 textarea{
     border: 2px solid #35373F;
     width: 930px;
@@ -94,10 +97,28 @@ textarea{
     left: 195px;
     top: 853px;
     background: #41444E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
     border-radius: 20px;
+    color: #EBEFF3;
 }
 .form-group{
     color:#41444E;  
+}
+.btn{
+    background-color: #7371FC;
+    color: #EBEFF3;
+    margin-left: 30px;
+    margin-top: 7.5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.send input:hover{
+    color:#F56D64;
+    background-color: #EBEFF3;
+    animation-name: Link;
+    animation-duration: 0.5s;
 }
 footer{
     padding-left: 20px;
