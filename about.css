@@ -1,6 +1,12 @@
 body{
     background-color: #202124 ;
     font-family: 'Poppins', sans-serif;
+    color: #EBEFF3;
+    margin-left: 20px;
+    overflow-x: hidden;
+    background-image: url("10phin\ background\ Image.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
 }
 .navbar {
     display: flex;
