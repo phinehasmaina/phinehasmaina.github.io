@@ -4,10 +4,9 @@ body{
     color: #EBEFF3;
     margin-left: 20px;
     overflow-x: hidden;
-    background-image: url("10phin\ background\ Image.png");
+    background-image: url("Assets\10phin background Image.png");
     background-repeat: repeat-y;
     background-size: 100%;
-    
 }
 .navbar {
     display: flex;
