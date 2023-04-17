@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #202124 ;
     font-family: 'Poppins', sans-serif;
     color: #EBEFF3;
@@ -18,14 +18,14 @@ body{
     margin: 10px;
     background-color: #202124 ;
   }
-.logo img{
+.logo img {
     width: 150px;
 }
 .navlinks{
     display: flex;
     align-items: center;
 }
-.navlinks a{
+.navlinks a {
     color: #EBEFF3;
     text-decoration: none;
     padding-left: 1em;
@@ -55,44 +55,44 @@ a.active {
     display: flex;
     flex-direction: row;
 }
-.main{
+.main {
     margin: 200px 0px 0px 100px;
     width: 60vw;
 }
-.title-font{
+.title-font {
     padding-top: 0em;
     font-weight: 800;
     font-size: 40px;
     color: #EBEFF3;
     line-height: 50px;
 }
-.title-font p{
+.title-font p {
     margin: 0 0 0 0;
 }
-.header-font{
+.header-font {
     font-weight: 600;
     font-size: 30px;
     color: #7371FC;
 }
-.header-font p{
+.header-font p {
     margin: 0 0 0 0;
 }
-.paragragh-font{
+.paragragh-font {
     font-weight: 400;
     font-size: 25px;
     color: #EBEFF3;
 }
-.paragraph-font p{
+.paragraph-font p {
     margin: 0 0 0 0;
 }
-.phinfooter{
+.phinfooter {
     padding-left: 20px;
     width: 100%;
     text-align: center;
     color:#EBEFF3;
 }
 
-.mainpic{
+.mainpic {
     float: right;
     margin-top: auto;
     margin-bottom: auto;

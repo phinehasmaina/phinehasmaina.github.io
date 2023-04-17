@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #202124 ;
     font-family: 'Poppins', sans-serif;
     color: #EBEFF3;
@@ -19,16 +19,16 @@ body{
     background-color: #202124 ;
   }
 
-.logo img{
+.logo img {
     width: 150px;
 
 }
-.navlinks{
+.navlinks {
     display: flex;
     align-items: center;
     
 }
-.navlinks a{
+.navlinks a {
     color: #EBEFF3;
     text-decoration: none;
     padding-left: 1em;
@@ -54,41 +54,41 @@ a.active {
         color: #F56D64;
     }
 }
-.text-container{ 
+.text-container { 
     display: flex;
     flex-direction: column;
 }
-.main-text{
+.main-text {
     margin: 200px 0px 200px 100px;
     width: 40vw;
 }
-.title-font{
+.title-font {
     padding-top: 0em;
     font-weight: 800;
     font-size: 40px;
     color: #EBEFF3;
     line-height: 50px;
 }
-.title-font p{
+.title-font p {
     margin: 0 0 0 0;
 }
-.header-font{
+.header-font {
     font-weight: 600;
     font-size: 30px;
     color: #7371FC;
 }
-.header-font p{
+.header-font p {
     margin: 0 0 0 0;
 }
-.paragragh-font{
+.paragragh-font {
     font-weight: 400;
     font-size: 25px;
     color: #EBEFF3;
 }
-.paragraph-font p{
+.paragraph-font p {
     margin: 0 0 0 0;
 }
-.column{
+.column {
     display: flex;
     flex-direction: column;
     background-color:#C3C6CB;
@@ -97,7 +97,7 @@ a.active {
     padding: 24px 10px 0 24px;
     
 }
-.row{
+.row {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -106,28 +106,28 @@ a.active {
     
     
 }
-.img{
+.img {
     overflow: hidden;
     border-radius: 20px;
     max-width: 100%;
     width: 95%;
     max-height:90%;
 }
-.pro-header-font{
+.pro-header-font {
     font-weight: 700;
     font-size: 25px;
     color: #202124;
     padding: 5px;
     height: 40px;
 }
-.pro-paragraph-font{
+.pro-paragraph-font {
     font-weight: 400;
     font-size: 15px;
     color: #202124;
     padding: 5px;
     align-items: left;
 }
-footer{
+footer {
     padding-left: 20px;
     width: 100%;
     text-align: center;

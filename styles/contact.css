@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #202124 ;
     font-family: 'Poppins', sans-serif;
     color: #EBEFF3;
@@ -18,14 +18,14 @@ body{
     margin: 10px;
     background-color: #202124 ;
   }
-.logo img{
+.logo img {
     width: 150px;
 }
-.navlinks{
+.navlinks {
     display: flex;
     align-items: center;
 }
-.navlinks a{
+.navlinks a {
     color: #EBEFF3;
     text-decoration: none;
     padding-left: 1em;
@@ -48,12 +48,12 @@ a.active {
         color: #F56D64;
     }
 }
-h2{
+h2 {
     color: #7371FC;
     padding-top: 50px;
     margin-left: 100px; 
 }
-.rectangle{
+.rectangle {
     margin-left: 100px;
     background-color: #35373F;
     width: 1028px;
@@ -61,16 +61,16 @@ h2{
     border-radius: 20px;
     
 }
-.form-contents{
+.form-contents {
     padding-left: 30px;
     padding-top: 7.5px;
 }
-.form-head{
+.form-head {
     font-size: 20px;
     font-weight: 400; 
 }
 
-input{
+input {
     border: 2px solid #35373F;
     width: 930px;
     height: 66px;
@@ -82,7 +82,7 @@ input{
     font-size: 15px;
     color: #EBEFF3;
 }
-.send input{
+.send input {
     width: 150px;
     height: 85px;
     left: 150px;
@@ -93,7 +93,7 @@ input{
     font-size: 20px;
     color: #EBEFF3;
 }
-textarea{
+textarea {
     border: 2px solid #35373F;
     width: 930px;
     height: 136px;
@@ -105,10 +105,10 @@ textarea{
     border-radius: 20px;
     color: #EBEFF3;
 }
-.form-group{
+.form-group {
     color:#41444E;  
 }
-.btn{
+.btn {
     background-color: #7371FC;
     color: #EBEFF3;
     margin-left: 30px;
@@ -117,13 +117,13 @@ textarea{
     font-size: 15px;
 }
 
-.send input:hover{
+.send input:hover {
     color:#F56D64;
     background-color: #EBEFF3;
     animation-name: Link;
     animation-duration: 0.5s;
 }
-footer{
+footer {
     padding-left: 20px;
     width: 100%;
     text-align: center;
