@@ -13,7 +13,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding-bottom: 20px;
-    padding-right: 20px;
+    padding-right: 50px;
     padding-top: 20px;
     margin: 10px;
     background-color: #202124 ;
@@ -51,10 +51,13 @@ a.active {
         color: #F56D64;
     }
 }
+.container1 { 
+    display: flex;
+    flex-direction: row;
+}
 .main{
-    margin: 200px 0px 200px 100px;
+    margin: 200px 0px 0px 100px;
     width: 60vw;
-
 }
 .title-font{
     padding-top: 0em;
@@ -82,22 +85,13 @@ a.active {
 .paragraph-font p{
     margin: 0 0 0 0;
 }
-footer{
+.phinfooter{
     padding-left: 20px;
     width: 100%;
     text-align: center;
     color:#EBEFF3;
 }
-.phinfooter{
-    position: fixed;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-}
-.container1 { 
-    display: flex;
-    flex-direction: row;
-}
+
 .mainpic{
     float: right;
     margin-top: auto;
